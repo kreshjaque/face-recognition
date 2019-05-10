@@ -7,7 +7,7 @@ import { loadModels, getFullFaceDescription, createMatcher } from '../api/face';
 const testImg = require('../img/test.jpg');
 
 // Import face profile
-const JSON_PROFILE = require('../descriptors/krishna.json');
+const JSON_PROFILE = require('../descriptors/ppl.json');
 
 // Initial State
 const INIT_STATE = {
